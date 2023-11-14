@@ -30,18 +30,6 @@ var starbucks = {
         green_tea: 'Unoxidized and minimally processed, green tea offers a delicate and fresh flavor with grassy and vegetal notes. It is celebrated for its potential health benefits and is a go-to choice for those seeking a lighter and more nuanced tea experience.',
         matcha_tea: 'A finely ground, powdered green tea with a unique preparation process. Matcha is known for its vibrant green color and distinctive, slightly bitter taste. It is often whisked into a frothy consistency and enjoyed in traditional Japanese tea ceremonies.'
     }
-    // name: 'Alina',
-    // surname: 'Egimbaeva',
-    // id: 13,
-    // isMarried : false,
-    // address: {
-    //     city: 'bishkek',
-    //     street: 'Ibraimova',
-    //     number: 'nul'
-    // },
-    // user:{
-    //     d: {}
-    // }
 }
 
 var order = prompt("Заказ: ");
